@@ -1,0 +1,177 @@
+/*
+Theme Name: Franklin Massage Center
+Theme URI: 
+Description: Wordpress Theme created by Word Creative
+Author: Word Creative
+Author URI: http://www.wordcreative.com
+*/
+
+/* CSS Document */
+
+/*INCLUDE CSS FILES*/
+
+@import url(reset.css); 
+
+
+
+
+/* Main */
+* { margin:0; padding:0; }
+html { background:#1f1f1f url(images/bgStrip.png) repeat-x; font-family:"Trebuchet MS", arial, sans-serif; font-size:13px; }
+a { color:#2d8bc3; border: none; font-weight: bold; text-decoration: none;}
+h2 { color: #003b59; font-size: 21px; margin-bottom: 8px; }
+h4 { font-size: 18px; font-weight: normal; line-height: 24px; }
+
+#wrapper { height:956px; width:994px; position:relative; margin:0 auto; text-align:center; padding-top:88px; }
+#bgLeft,#bgRight { width:103px; height:170px; position:absolute; top:0; }
+#bgRight { background:url(images/glowR.png) no-repeat; right:-103px; }
+#bgLeft { background:url(images/glowL.png) no-repeat; left:-92px; }
+#logo { display:block; position:absolute; width:419px; height:54px; background:url(images/logo-big.png) no-repeat; top:47px; left:38px; text-indent:-9999px; }
+#call { display:block; position:absolute; width:233px; height:20px; background:url(images/call-fmc.png) no-repeat; top:28px; right:33px; text-indent:-9999px; }
+#tag { display:block; position:absolute; width:355px; height:19px; background:url(images/tag_2.png) no-repeat; top:60px; right:31px; text-indent:-9999px; }
+
+#content { background:url(images/contentBg.png) repeat-y; width:976px; padding:0 9px; text-align:left; font-size:14px; color:#242424; line-height:23px; margin-top:0!important; margin-top:-4px; position:relative; }
+.box { background:#d8d7d7; position:relative; padding:9px 0 0 23px; }
+.box_top { background:url(images/boxTop.gif) no-repeat; display:block; height:9px; margin:0; padding:0; width:252px; position:absolute; top:0; left:0; }
+.box_bottom { background:url(images/boxBottom.gif) no-repeat; display:block; height:9px; margin:0 0 25px 0; padding:0; width:252px; }
+
+#footer { position:relative; width:994px; height:78px; background:url(images/bgFooter.png) no-repeat; margin-bottom:30px; color:#444444; }
+#footer #ft1 { position:absolute; top:31px; left:41px; }
+#footer #ft2 { position:absolute; top:31px; right:41px; }
+#footer a#fb { position: absolute; top:19px; left:456px; width: 36px; height: 36px; text-indent: -9999px; overflow: hidden; background: url(images/fb.jpg) no-repeat; }
+#footer a#tw { position: absolute; top:19px; right:456px; width: 36px; height: 36px; text-indent: -9999px; overflow: hidden; background: url(images/tw.jpg) no-repeat; }
+#footer a:hover#fb { background-position: 0 -36px; }
+#footer a:hover#tw { background-position: 0 -36px; }
+
+
+
+/* Home */
+#homeHead { margin:0 auto; background:url(images/homeHeadBg_2.png) no-repeat; width:977px; height:284px; text-indent:-9999px; position:relative; }
+#homeHead a#wmt { display:block; width:254px; height:41px; position:absolute; top:205px; left:40px; background:url(images/btnWmt.png) no-repeat; }
+#homeHead a:hover#wmt { background:url(images/btnWmt.png) 0 -41px no-repeat; }
+#homeLinks { margin:0 auto; background:url(images/homeLinksBg.jpg) no-repeat; width:977px; height:265px; position:relative; }
+#homeLinks a { width:285px; height:191px; position:absolute; top:31px; text-indent:-9999px; display:block; }
+#homeLinks a#hl1 { background:url(images/hl1-fmc.jpg) no-repeat; left:200px; }
+#homeLinks a#hl2 { background:url(images/hl2-fmc.jpg) no-repeat; left:509px; }
+#homeLinks a:hover#hl1 { background:url(images/hl1-fmc.jpg) 0 -191px no-repeat; }
+#homeLinks a:hover#hl2 { background:url(images/hl2-fmc.jpg) 0 -191px no-repeat; }
+
+#homeLeft { padding-left:53px; width:590px; padding-bottom:20px; }
+#homeLeft p { padding-left:2px; }
+#homeLeft h2 { background:url(images/h2Welcome.jpg) no-repeat; width:434px; height:25px; text-indent:-9999px; margin:30px 0 10px; }
+#homeLeft a#mak { display:block; text-indent:-9999px; background:url(images/btn-sp.png) no-repeat; width:177px; height:34px; margin-top:18px; }
+#homeLeft a:hover#mak { background:url(images/btn-sp.png) 0 -34px no-repeat; }
+#homeRight { width:252px; height:317px; position:absolute; right:50px; top:296px!important; top:296px; font-size:13px; line-height:20px; }
+#homeRight ul li { list-style-image:url(images/ck.jpg); margin-left:22px; }
+#homeRight .box { padding-bottom:6px; }
+#homeRight #pr { text-indent:-9999px; width:171px; height:23px; background:url(images/h2Pr.gif) no-repeat; margin:10px 0; }
+#homeRight a#lm { display:block; text-indent:-9999px; background:url(images/btnLm.png) no-repeat; width:135px; height:34px; margin-top:16px; }
+#homeRight a:hover#lm { background:url(images/btnLm.png) 0 -34px no-repeat; }
+
+
+
+
+/* Interior */
+#intHead { margin:0 auto; background:url(images/intHeadBg.jpg) no-repeat; width:977px; height:193px; text-indent:-9999px; position:relative; }
+#intRight { float:right; margin-right:40px!important; padding-top: 30px; }
+#intLeft { float: left; width: 600px; padding: 30px 0 30px 40px; }
+
+#intRight a:hover, #intLeft a:hover { border-bottom: 1px dashed; }
+
+#intHead h2 { width: 476px; height: 42px; position: absolute; top: 50px; left: 40px; }
+.page-id-8 #intHead h2 { background: url(images/h2WMT.png) no-repeat; }
+.page-id-2 #intHead h2 { background: url(images/h2MK.png) no-repeat; }
+.page-id-9 #intHead h2 { background: url(images/h2Services.png) no-repeat; }
+.page-id-11 #intHead h2 { background: url(images/h2Test.png) no-repeat; }
+.page-id-12 #intHead h2 { background: url(images/h2Contact.png) no-repeat; }
+.page-id-7 #intHead h2 { background: url(images/h2WMT.png) no-repeat; }
+.page-id-68 #intHead h2 { background: url(images/h2MR.png) no-repeat; }
+.page-id-5 #intHead h2 { background: url(images/h2MD.png) no-repeat; }
+.page-id-73 #intHead h2 { background: url(images/h2SMT.png) no-repeat; }
+.page-id-81 #intHead h2 { background: url(images/h2SSK.png) no-repeat; }
+.page-id-138 #intHead h2 { background: url(images/h2MOT.png) no-repeat; }
+.page-id-161 #intHead h2 { background: url(images/h2Partners.png) no-repeat; }
+.blog #intHead h2, .single #intHead h2, .archive #intHead h2 { background: url(images/h2Blog.png) no-repeat; }
+
+.page-id-2 #content #intLeft .post em, .page-id-68 #content #intLeft .post em { color: #555; }
+
+.page #intRight ul li { list-style-image:url(images/ck.jpg); margin-left:22px; }
+.page #intRight .box { padding-bottom:6px; }
+.page #intRight #pr { text-indent:-9999px; width:171px; height:23px; background:url(images/h2Pr.gif) no-repeat; margin:10px 0; }
+.page #intRight a#lm { display:block; text-indent:-9999px; background:url(images/btnLm.png) no-repeat; width:135px; height:34px; margin-top:16px; }
+a:hover#lm {border: none;}
+.page #intRight a:hover#lm { background:url(images/btnLm.png) 0 -34px no-repeat; }
+.box ul h2 {margin-top: 10px;}
+
+.blog #intRight ul li h2 { margin-top:12px; }
+.post ul {margin-left: 30px; list-style-type: disc; }
+
+.meta-small { color: #9f9898; font-size: 11px; line-height: 16px; border-top: 1px solid #bebaba; margin-top: 20px; padding-top: 5px; margin-bottom: 20px;}
+.date-time {color: #9f9898; font-size: 11px; line-height: 16px; margin-bottom: 22px; }
+.categories { padding-bottom: 10px; }
+
+.wpcf7-form p { font-weight: bold; color: #003B59;}
+
+
+/* Nav */
+#nav { background:url(images/nav-fmc.png) no-repeat!important; width:994px; height:60px; margin:0 auto; padding:0; display:block; text-indent:-9999px; }
+#nav span { display:none; }
+#nav li { position:relative; float:left; }
+#nav a { margin:0; padding:0; display:block; height:64px; text-indent:-9999px; position:relative; }
+#nav a:hover { border:none; }
+
+#nav-01 { width:84px; margin-left:38px!important; }
+#nav-02 { width:203px; margin-left:13px; }
+#nav-03 { width:183px; margin-left:13px; }
+#nav-04 { width:83px; margin-left:13px; }
+#nav-05 { width:122px; margin-left:13px; }
+#nav-06 { width:87px; margin-left:12px; }
+#nav-07 { width:81px; margin-left:12px; }
+
+/*MENU ROLLOVERS*/
+#nav-01 a:hover { background:url(images/nav-fmc.png) -38px -60px no-repeat; }
+#nav-02 a:hover { background:url(images/nav-fmc.png) -135px -60px no-repeat; }
+#nav-03 a:hover { background:url(images/nav-fmc.png) -351px -60px no-repeat; }
+#nav-04 a:hover { background:url(images/nav-fmc.png) -547px -60px no-repeat; }
+#nav-05 a:hover { background:url(images/nav-fmc.png) -643px -60px no-repeat; }
+#nav-06 a:hover { background:url(images/nav-fmc.png) -777px -60px no-repeat; }
+#nav-07 a:hover { background:url(images/nav-fmc.png) -876px -60px no-repeat; }
+
+/* Utility */
+.clear { clear:both; }
+.alignright { float: right; margin: 0 0 10px 15px; }
+.alignleft { float: left; margin: 0 15px 10px 0; }
+
+
+
+
+/* Comments */
+
+h3#comments { display:block; background:url(images/ico_h2_comments.png) 0 50% no-repeat; padding:15px 0 15px 40px; }
+h3#commentsForm { display:block; background:url(images/ico_h2_form.png) 0 50% no-repeat; padding:10px 0 10px 40px; }
+ol.commentlist { list-style:none; list-style-position:outside; display:block; margin:20px 0 0; }
+ol.commentlist ul { list-style-type:none; list-style-position:outside; }
+ol.commentlist li { padding:12px 20px; position:relative; border:1px dashed #ccc; margin-left:15px; margin-bottom:20px; }
+ol.commentlist li .comment-meta,ul.commentlist li .text { margin-left:20px; }
+ol.commentlist li .comment-meta span { font-size:11px; color:#999; }
+ol.commentlist li .avatar { background:#fff; padding:3px; border:1px solid #ccc; position:absolute; left:-15px; top:-7px; }
+ol.commentlist .reply { margin-left:20px; margin-top:-5px; }
+ol.commentlist .reply a { font-size:11px; 
+/*position:absolute;
+	bottom:10px;
+	left:34px;*/
+color:#3293C2; }
+ol.commentlist li .children li { background:#fff; margin-left:20px; margin-top:15px; }
+
+
+input, select, textarea { background:#D6D6D6 none repeat scroll 0% 0%; border:1px solid #E3E3E3; color:#616161; font-family: "Trebuchet MS",arial,sans-serif; font-size:1em; font-size-adjust:none; font-stretch:normal; font-style:normal; font-variant:normal; font-weight:normal; line-height:normal; padding:5px 4px; margin-bottom: 10px;}
+label, input#sbutt, p.commentslabel {font-weight: bold;}
+#s1, #s2, #s3, #s4 {width: 350px;}
+
+#comment { width: 555px; }
+input[type=submit] {cursor: pointer; border: 1px solid #b5afaf;}utt, p.commentslabel {font-weight: bold;}
+#s1, #s2, #s3, #s4 {width: 350px;}
+
+#comment { width: 555px; }
+input[type=submit] {cursor: pointer; border: 1px solid #b5afaf;}
+.fn { margin-left: 15px; }
