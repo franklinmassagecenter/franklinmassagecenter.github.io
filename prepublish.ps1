@@ -1,5 +1,7 @@
 $ErrorActionPreference = "Stop"
 
+Set-Location $PSScriptRoot
+
 Get-ChildItem -Filter "*.html" -File -Path $PSScriptRoot | ForEach-Object {
     $base = $_.BaseName
 
@@ -10,3 +12,5 @@ Get-ChildItem -Filter "*.html" -File -Path $PSScriptRoot | ForEach-Object {
     New-Item -ItemType Directory -Force -Path "$($PSScriptRoot)\$base"
     Copy-Item $_.FullName -Destination "$($PSScriptRoot)\$base\index.html" -Force
 }
+
+npx uglify-js .\therapists.js -o therapists.min.js
