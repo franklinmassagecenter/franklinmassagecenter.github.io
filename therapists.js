@@ -34,18 +34,6 @@ window.therapists = [
     ],
   },
   {
-    name: "Mallory Barbee",
-    bio: [
-      "Mallory's strong desire to help people heal led her to pursue a career in Massage Therapy. She leads a healthy and active lifestyle and enjoys supporting her clients in their journeys to do the same. She often incorporates Cupping Therapy into her sessions and demonstrates personalized stretches for clients to do at home for greater therapeutic outcomes.",
-    ],
-    therapies: [
-      THERAPIES.Deep,
-      THERAPIES.Sports,
-      THERAPIES.Swedish,
-      THERAPIES.Cupping,
-    ],
-  },
-  {
     name: "Nicole Erwin",
     bio: [
       'Nicole graduated from The Cumberland Institute in Brentwood, Tennessee and has been practicing Massage Therapy for over 14 years. She is proficient in Deep Tissue, Swedish, Acupressure, and Lymphatic Drainage Massage (LDM). Known as the "Glute Queen," Nicole is known for her exceptional work on the gluteal muscle group. She has found that this important area of the body that connects our upper to our lower is sadly often the most neglected by many Massage Therapists. Her technique combining Trigger Point Therapy and breath work allows the release of these muscles that often contribute to low back and hip pain.',
@@ -124,21 +112,6 @@ window.therapists = [
     ],
   },
   {
-    name: "Karla Swafford",
-    bio: [
-      "Karla graduated from Mind Body Institute in Nashville after receiving a BS in Health and Human Performance from Austin Peay State University. During her 12 year career in pharmacy caring for patients with chronic pain, she was inspired to seek ways of providing alternative and more naturopathic treatments for this demographic, ultimately landing her in the field of therapeutic touch. Her intuitive talents combined with modalities such as Swedish, deep tissue, cupping, sports massage, stretching, Graston and TMJ help her facilitate pain free body work for all of her clients.",
-    ],
-    therapies: [
-      THERAPIES.Swedish,
-      THERAPIES.Deep,
-      THERAPIES.Cupping,
-      THERAPIES.Sports,
-      THERAPIES.Graston,
-      THERAPIES.TMJ,
-      THERAPIES.Stretching,
-    ],
-  },
-  {
     name: "Courtney Richards",
     bio: [
       "Courtney graduated from Cumberland Institute of Holistic Therapies in September 2020. While she was there she received training in Swedish Massage, Acupressure, Neuromuscular Massage Therapy, and Craniosacral Therapy. She has always had a passion for helping people and a love for holistic health care. Her career as a Licensed Massage Therapist has allowed her to bring these two worlds together.",
@@ -177,5 +150,14 @@ window.therapists = [
       "Each session with Keyonis includes aromatherapy and hot towels to help the body fully relax.",
     ],
     therapies: [THERAPIES.Deep, THERAPIES.Stretching, THERAPIES.Swedish],
+  },
+  {
+    name: "Melanie Kitchens",
+    bio: [
+      "Melanie has been practicing massage therapy since 2015 once she graduated from The Massage Therapy Institute in Decatur, AL. She specializes in deep tissue massage and trigger point therapy, but she also has a wide variety of modalities including Swedish, prenatal massage, myofascial release, TMJ and cupping.",
+      "Melanie is very passionate about massage therapy and believes it is her calling to help people feel better through this avenue. She uses her healing touch and is very intuitive about the body and how it works. She strongly believes in massage therapy as a way to enhance the body's natural ability to heal itself.",
+    ],
+    therapies: [THERAPIES.Prenatal, THERAPIES.Deep, THERAPIES.TMJ, THERAPIES.Myofascial, THERAPIES.Swedish, THERAPIES.Cupping, THERAPIES.Sports
+    ],
   },
 ];

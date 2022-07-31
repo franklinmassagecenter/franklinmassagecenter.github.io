@@ -10,7 +10,7 @@ Get-ChildItem -Filter "*.html" -File -Path $PSScriptRoot | ForEach-Object {
     }
 
     New-Item -ItemType Directory -Force -Path "$($PSScriptRoot)\$base"
-    Copy-Item $_.FullName -Destination "$($PSScriptRoot)\$base\index.html" -Force
+    Copy-Item $_.FullName -Destination (Join-Path $PSScriptRoot -ChildPath "$base\index.html") -Force
 }
 
-npx uglify-js .\therapists.js -o therapists.min.js
+npx uglify-js therapists.js -o therapists.min.js
