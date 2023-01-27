@@ -30,7 +30,7 @@ window.therapists = [
       THERAPIES.Cupping,
       THERAPIES.Sports,
       THERAPIES.Swedish,
-      THERAPIES.Graston,
+      THERAPIES.TMJ
     ],
   },
   {
@@ -66,7 +66,8 @@ window.therapists = [
   {
     name: "Kathryn Marks",
     bio: [
-      "Kathryn graduated from Cumberland Institute of Holistic Therapies in 2015. Specializing in Deep Tissue, Myofascial Release, and Neuromuscular Therapy, she integrates Swedish Massage and stretching in order to create a full body experience. Kathryn is passionate about helping clients who suffer from migraines and headaches become pain-free. She often incorporates Cupping Therapy and is also known for her glute and pec work—essential treatments for athletes and desk workers alike. Her biggest reward is when her clients experience a big release from chronic tension in their bodies.",
+      "Hi, I'm Kathryn! I have been a licensed massage therapist since 2015. As a therapist, I believe that one should never stop being curious and learning about the mind, body, and spiritual/emotional connections. I fully believe that all of these are connected and play a big part in our wellbeing. I am a reiki healer on top of being a massage therapist, so I like integrating the spiritual with the physical. It is my favorite way of working!",
+      "I am also very experienced with deep tissue, cupping, graston, and neuromuscular therapy. I work on a lot of clients with neck and hip issues. Believe it or not, they are connected! If you like what you're reading, I hope to see you soon!",
     ],
     therapies: [
       THERAPIES.Deep,
@@ -79,6 +80,7 @@ window.therapists = [
       THERAPIES.Graston,
       THERAPIES.Prenatal,
       THERAPIES.Energetic,
+      THERAPIES.Reiki
     ],
   },
   {
@@ -108,39 +110,6 @@ window.therapists = [
       THERAPIES.Reiki,
       THERAPIES.Craniosacral,
       THERAPIES.Lymphatic,
-      THERAPIES.Cupping,
-    ],
-  },
-  {
-    name: "Courtney Richards",
-    bio: [
-      "Courtney graduated from Cumberland Institute of Holistic Therapies in September 2020. While she was there she received training in Swedish Massage, Acupressure, Neuromuscular Massage Therapy, and Craniosacral Therapy. She has always had a passion for helping people and a love for holistic health care. Her career as a Licensed Massage Therapist has allowed her to bring these two worlds together.",
-      "Most sessions with Courtney include integrating Deep Tissue and Neuromuscular Massage Therapy. Courtney finds that these two modalities together bring the most relief to people suffering from sore/tight neck and shoulders, low back pain, tight hips, TMJ, and tension headaches. She believes massage therapy does amazing things not only for our bodies but for our mind and soul as well.",
-      "When she isn't working, Courtney loves watching Tennessee Volunteer football, spending time with her family, and being outdoors. A fun fact about Courtney is her very first job was as a dog washer at a grooming salon.",
-    ],
-    therapies: [
-      THERAPIES.Swedish,
-      THERAPIES.Acupressure,
-      THERAPIES.Neuromuscular,
-      THERAPIES.Craniosacral,
-      THERAPIES.TMJ,
-      THERAPIES.Cupping,
-      THERAPIES.Sports,
-    ],
-  },
-  {
-    name: "Abbey Bosheers",
-    bio: [
-      "Abbey's interest in massage therapy was sparked by her need to help heal. Abbey graduated from Nashville School of Massage Therapy in Franklin, TN. While there she studied multiple modalities, but is passionate about the power of a deep tissue massage and the release it can bring.",
-      "Abbey also incorporates cupping therapy and stretching into her massages and offers prenatal massage after the first trimester. Abbey is fulfilled the most by helping her clients live and perform their best.",
-    ],
-    therapies: [
-      THERAPIES.Deep,
-      THERAPIES.Cupping,
-      THERAPIES.Stretching,
-      THERAPIES.Prenatal,
-      THERAPIES.Swedish,
-      THERAPIES.Sports,
     ],
   },
   {
@@ -159,5 +128,21 @@ window.therapists = [
     ],
     therapies: [THERAPIES.Prenatal, THERAPIES.Deep, THERAPIES.TMJ, THERAPIES.Myofascial, THERAPIES.Swedish, THERAPIES.Cupping, THERAPIES.Sports
     ],
+  },
+  {
+    name: "Christina Morozova",
+    bio: [
+      "Christina's interest in massage therapy is rooted in family tradition. Her drive for working one-on-one with people, helping them to feel better, led to the start of her massage therapy career in St. Louis after graduating from The Healing Arts Center in 2017. She has experience working with a wide variety of patients in clinical, athletic, and spa settings. Christina believes that massage therapy is an integral part of injury prevention, rehabilitation, and overall health.",
+      "She has a passion for working with patients on their goals, whether that is recovering from acute or chronic pain; sports-related injuries; neurological issues; or postural imbalances. Christina's goal is to collaborate with patients to create a safe, enjoyable treatment and ongoing care plan that's catered to their specific needs and lifestyle. Her sessions encompass a variety of massage techniques, assessment tools, and personalized treatment plans to assist in achieving her clients' optimal health and well-being.",
+    ],
+    therapies: [THERAPIES.Cupping, THERAPIES.Myofascial],
+  },
+  {
+    name: "Carrie Nye",
+    bio: [
+      "Carrie graduated from Birmingham School of Massage (Birmingham, AL) in February of 2014. She promotes wellness through personalized pain management and stress reduction therapy, and tailors each session to the client's specific needs/goals. In most therapy sessions, Carrie utilizes Swedish, Deep Tissue, & Neuromuscular techniques for a full body massage, to produce an \"all-encompassing\" therapeutic outcome.",
+      "Carrie is passionate about combining her skills to produce both physical and psychological benefits for her clients, and believes in utilizing massage therapy for treatment of anxiety and depression as well. She prides herself in assisting not only physical healing, but also mental and emotional healing by helping the brain produce those \"happy chemicals\" via massage therapy."
+    ],
+    therapies: [THERAPIES.Deep, THERAPIES.Neuromuscular, THERAPIES.Swedish, THERAPIES.Prenatal],
   },
 ];
