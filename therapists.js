@@ -113,31 +113,6 @@ window.therapists = [
     ],
   },
   {
-    name: "Keyonis Ware",
-    bio: [
-      "Keyonis graduated from Georgia Career Institute. Her passion for helping others and fascination with the human body lead her to massage therapy. She finds that integrated sessions with deep tissue, Swedish massage, and stretching bring the most relief to her clients.",
-      "Each session with Keyonis includes aromatherapy and hot towels to help the body fully relax.",
-    ],
-    therapies: [THERAPIES.Deep, THERAPIES.Stretching, THERAPIES.Swedish],
-  },
-  {
-    name: "Melanie Kitchens",
-    bio: [
-      "Melanie has been practicing massage therapy since 2015 once she graduated from The Massage Therapy Institute in Decatur, AL. She specializes in deep tissue massage and trigger point therapy, but she also has a wide variety of modalities including Swedish, prenatal massage, myofascial release, TMJ and cupping.",
-      "Melanie is very passionate about massage therapy and believes it is her calling to help people feel better through this avenue. She uses her healing touch and is very intuitive about the body and how it works. She strongly believes in massage therapy as a way to enhance the body's natural ability to heal itself.",
-    ],
-    therapies: [THERAPIES.Prenatal, THERAPIES.Deep, THERAPIES.TMJ, THERAPIES.Myofascial, THERAPIES.Swedish, THERAPIES.Cupping, THERAPIES.Sports
-    ],
-  },
-  {
-    name: "Christina Morozova",
-    bio: [
-      "Christina's interest in massage therapy is rooted in family tradition. Her drive for working one-on-one with people, helping them to feel better, led to the start of her massage therapy career in St. Louis after graduating from The Healing Arts Center in 2017. She has experience working with a wide variety of patients in clinical, athletic, and spa settings. Christina believes that massage therapy is an integral part of injury prevention, rehabilitation, and overall health.",
-      "She has a passion for working with patients on their goals, whether that is recovering from acute or chronic pain; sports-related injuries; neurological issues; or postural imbalances. Christina's goal is to collaborate with patients to create a safe, enjoyable treatment and ongoing care plan that's catered to their specific needs and lifestyle. Her sessions encompass a variety of massage techniques, assessment tools, and personalized treatment plans to assist in achieving her clients' optimal health and well-being.",
-    ],
-    therapies: [THERAPIES.Cupping, THERAPIES.Myofascial],
-  },
-  {
     name: "Carrie Nye",
     bio: [
       "Carrie graduated from Birmingham School of Massage (Birmingham, AL) in February of 2014. She promotes wellness through personalized pain management and stress reduction therapy, and tailors each session to the client's specific needs/goals. In most therapy sessions, Carrie utilizes Swedish, Deep Tissue, & Neuromuscular techniques for a full body massage, to produce an \"all-encompassing\" therapeutic outcome.",
