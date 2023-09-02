@@ -1,4 +1,5 @@
 window.THERAPIES = {
+  Abdominal: "Abdominal Therapy",
   Acupressure: "Acupressure",
   Ashiatsu: "Ashiatsu",
   Craniosacral: "Craniosacral Therapy",
@@ -6,7 +7,7 @@ window.THERAPIES = {
   Deep: "Deep Tissue",
   Energetic: "Energetic Healing",
   Graston: "Graston Technique",
-  Lymphatic: "Lymphatic Drainage Massage",
+  Lymphatic: "Lymphatic Drainage",
   Myofascial: "Myofascial Release",
   Neuromuscular: "Neuromuscular",
   Prenatal: "Prenatal Massage",
@@ -28,6 +29,7 @@ window.therapists = [
     therapies: [
       THERAPIES.Deep,
       THERAPIES.Cupping,
+      THERAPIES.Graston,
       THERAPIES.Sports,
       THERAPIES.Swedish,
       THERAPIES.TMJ
@@ -90,6 +92,7 @@ window.therapists = [
       "She graduated as valedictorian from the Institute of Health and Tech. in 2018. She also worked as a medical massage therapist where she learned a variety of techniques and stretches to help relieve the body of tension and stress.",
     ],
     therapies: [
+      THERAPIES.Abdominal,
       THERAPIES.Deep,
       THERAPIES.Ashiatsu,
       THERAPIES.Cupping,
@@ -102,8 +105,8 @@ window.therapists = [
     bio: [
       "Erica is a Licensed Massage Therapist and Reiki Master born and raised in Naperville, Illinois. She moved to the Nashville area in 2016 looking for a fresh start and a new career. She attended Cumberland Institute of Holistic Therapies, where she not only found a new career path, she also found a new outlook on her life and how she could help others. She truly believes that the mind, body and spirit are all connected and we hold our emotions and memories in our bodies.",
       "Erica grew up competing in gymnastics and cheerleading, and benefited from receiving massage starting at a young age. Her active lifestyle continued as she decided to pursue a career in the music industry and a was a professional singer for 13 years. She also found a love of the food service industry and enjoyed establishing and cultivating relationships with regular customers. When considering her next career move, massage seemed like a natural fit for Erica because it combined her love of people with a way to help them in an active way.",
-      "Erica's love of massage comes from the work that can be achieved on a massage table. It brings her great joy to utilize two of her favorite modalities, Swedish and Reiki, and use them to create a relaxing experience with her clients. The biggest compliment to her is to see the smile and look of relief and contentment after a session.",
-      "When she's away from the massage table, Erica is an avid dog lover with plans to adopt one in the next few months. She also enjoys movies, reading and her favorite hobby of all...napping!",
+      "Erica's love of massage comes from the work that can be achieved on a massage table. It brings her great joy to utilize two of her favorite modalities, Swedish and Reiki, and use them to create a relaxing experience with her clients. The biggest compliment to her is to see the smile and look of relief and contentment after a session. She has also found a passion for Lymphatic Drainage and the benefits it has brought to her clientele. Erica works with post surgical clients to help lymph movement, reduce inflammation and swelling to aid in the healing process. She also works with clients with auto-immune diseases, allergies and general wellness.",
+      "When she's away from the massage table, Erica is an avid dog lover who also enjoys movies, reading and her favorite hobby of all...napping!",
     ],
     therapies: [
       THERAPIES.Swedish,
@@ -118,6 +121,13 @@ window.therapists = [
       "Carrie graduated from Birmingham School of Massage (Birmingham, AL) in February of 2014. She promotes wellness through personalized pain management and stress reduction therapy, and tailors each session to the client's specific needs/goals. In most therapy sessions, Carrie utilizes Swedish, Deep Tissue, & Neuromuscular techniques for a full body massage, to produce an \"all-encompassing\" therapeutic outcome.",
       "Carrie is passionate about combining her skills to produce both physical and psychological benefits for her clients, and believes in utilizing massage therapy for treatment of anxiety and depression as well. She prides herself in assisting not only physical healing, but also mental and emotional healing by helping the brain produce those \"happy chemicals\" via massage therapy."
     ],
-    therapies: [THERAPIES.Deep, THERAPIES.Neuromuscular, THERAPIES.Swedish, THERAPIES.Prenatal],
+    therapies: [THERAPIES.Deep, THERAPIES.Neuromuscular, THERAPIES.Swedish, THERAPIES.Prenatal, THERAPIES.Sports],
+  },
+  {
+    name: "Zoë Greene",
+    bio: [
+      "Hi, my name is Zoë! My goal is to provide a supportive space for my clients to find their inner relaxation so they can live more fully and connected to their body. I love helping people create balance within their bodies through the power of massage therapy. I graduated from the Nashville School of Massage Therapy where I received an academic award of excellence for my work. I have also trained in neuromuscular massage therapy at the Cumberland Institute of Holistic Therapies in order to help clients with muscle pain management. I believe through calming touch, I can offer a sense of peace and well-being for all my clients.",
+    ],
+    therapies: [THERAPIES.Deep, THERAPIES.Myofascial, THERAPIES.Neuromuscular, THERAPIES.Stretching, THERAPIES.Swedish],
   },
 ];
