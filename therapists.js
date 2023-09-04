@@ -12,6 +12,7 @@ window.THERAPIES = {
   Neuromuscular: "Neuromuscular",
   Prenatal: "Prenatal Massage",
   Reiki: "Reiki",
+  Scar: "Scar Recovery",
   Sports: "Sports",
   Stretching: "Stretching",
   Swedish: "Swedish",
@@ -38,16 +39,17 @@ window.therapists = [
   {
     name: "Nicole Erwin",
     bio: [
-      'Nicole graduated from The Cumberland Institute in Brentwood, Tennessee and has been practicing Massage Therapy for over 14 years. She is proficient in Deep Tissue, Swedish, Acupressure, and Lymphatic Drainage Massage (LDM). Known as the "Glute Queen," Nicole is known for her exceptional work on the gluteal muscle group. She has found that this important area of the body that connects our upper to our lower is sadly often the most neglected by many Massage Therapists. Her technique combining Trigger Point Therapy and breath work allows the release of these muscles that often contribute to low back and hip pain.',
-      "Throughout Nicole's career she has worked with NFL, NBA, and NHL players as well as runners and average-joes. She combines her unique skillset in order to address each of her client's needs, tailoring each session to the individual. Nicole equally enjoys offering the Lymphatic Drainage Massage modality for clients who may suffer with allergies, edema (swelling), and auto-immune diseases. Please see \"Lymphatic Drainage Massage\" on our Services page for more information.",
+      'Nicole graduated from Cumberland Institute in Brentwood, Tennessee and has been in practice for over 20 years. Throughout Nicole\'s career she has narrowed in on deep tissue, Ashiatsu, Manual Lymphatic Drainage and Scar Tissue Management. Known as the "Glute Queen," Nicole is known for her exceptional work on the gluteal muscle group. She has found that this important area of the body that connects our upper and lower is sadly often the most neglected by many Massage Therapists. Her technique combining Trigger Point Therapy and breath work allows the release of these muscles that often contribute to low back and hip pain',
+      "Equally, Nicole loves Ashiatsu, Manual Lymphatic Drainage and Scar Recovery work. Ashiatsu is a form of massage performed with her feet where she “walks on” you. Clients are often surprised at how relaxing this type of massage can be being such a deep tissue type work. If you have never tried Ashiatsu, you should! Manual Lymphatic Drainage and Scar Recovery is one of Nicole's favorite modalities. She has helped break up scar tissue and increase the flow of the lymphatic system for many clients post Plastic Surgery to assist in their healing journey. Clients suffering with allergies, edema (swelling), and auto-immune diseases gain great benefits from this type of work as well.",
+      "Whether you are a professional athlete, weekend warrior, stay at home parent or anyone in between, Nicole will do her best to address and tailor her massage to your needs."
     ],
     therapies: [
       THERAPIES.Lymphatic,
       THERAPIES.Swedish,
       THERAPIES.Deep,
-      THERAPIES.Sports,
       THERAPIES.Cupping,
       THERAPIES.Ashiatsu,
+      THERAPIES.Scar
     ],
   },
   {
