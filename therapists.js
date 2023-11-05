@@ -100,21 +100,7 @@ window.therapists = [
       THERAPIES.Cupping,
       THERAPIES.Swedish,
       THERAPIES.Sports,
-    ],
-  },
-  {
-    name: "Erica Heiden",
-    bio: [
-      "Erica is a Licensed Massage Therapist and Reiki Master born and raised in Naperville, Illinois. She moved to the Nashville area in 2016 looking for a fresh start and a new career. She attended Cumberland Institute of Holistic Therapies, where she not only found a new career path, she also found a new outlook on her life and how she could help others. She truly believes that the mind, body and spirit are all connected and we hold our emotions and memories in our bodies.",
-      "Erica grew up competing in gymnastics and cheerleading, and benefited from receiving massage starting at a young age. Her active lifestyle continued as she decided to pursue a career in the music industry and a was a professional singer for 13 years. She also found a love of the food service industry and enjoyed establishing and cultivating relationships with regular customers. When considering her next career move, massage seemed like a natural fit for Erica because it combined her love of people with a way to help them in an active way.",
-      "Erica's love of massage comes from the work that can be achieved on a massage table. It brings her great joy to utilize two of her favorite modalities, Swedish and Reiki, and use them to create a relaxing experience with her clients. The biggest compliment to her is to see the smile and look of relief and contentment after a session. She has also found a passion for Lymphatic Drainage and the benefits it has brought to her clientele. Erica works with post surgical clients to help lymph movement, reduce inflammation and swelling to aid in the healing process. She also works with clients with auto-immune diseases, allergies and general wellness.",
-      "When she's away from the massage table, Erica is an avid dog lover who also enjoys movies, reading and her favorite hobby of all...napping!",
-    ],
-    therapies: [
-      THERAPIES.Swedish,
-      THERAPIES.Reiki,
-      THERAPIES.Craniosacral,
-      THERAPIES.Lymphatic,
+      THERAPIES.Prenatal,
     ],
   },
   {
@@ -131,5 +117,29 @@ window.therapists = [
       "Hi, my name is Zoë! My goal is to provide a supportive space for my clients to find their inner relaxation so they can live more fully and connected to their body. I love helping people create balance within their bodies through the power of massage therapy. I graduated from the Nashville School of Massage Therapy where I received an academic award of excellence for my work. I have also trained in neuromuscular massage therapy at the Cumberland Institute of Holistic Therapies in order to help clients with muscle pain management. I believe through calming touch, I can offer a sense of peace and well-being for all my clients.",
     ],
     therapies: [THERAPIES.Deep, THERAPIES.Myofascial, THERAPIES.Neuromuscular, THERAPIES.Stretching, THERAPIES.Swedish],
+  },
+  {
+    name: "Laura Stewart",
+    bio: [
+      "Laura creates a safe and nurturing environment for clients to experience profound relaxation and therapeutic restoration. Together she will work with you on a customized plan that is uniquely suited to your needs. Her approach to treatment includes craniosacral therapy, myofascial release and Reiki.  Treatments center on gently releasing restrictions from the body to help restore balance and function. She loves helping people who live with chronic pain are experiencing immune or nervous system disorders, migraine, neck pain, tmj disorder, injury, trauma, tension, anxiety, depression, and other disorders.",
+    ],
+    therapies: [THERAPIES.Craniosacral, THERAPIES.Myofascial, THERAPIES.Reiki, THERAPIES.Deep, THERAPIES.Sports, THERAPIES.Swedish, THERAPIES.TMJ, THERAPIES.Prenatal],
+  },
+  {
+    name: "Tia Day",
+    bio: [
+      "Tia graduated from Cumberland Institute of Holistic Therapies in Brentwood, TN. She started out as a strength and conditioning coach in Colorado working with prospective D1 athletes and tactical personnel. She gradually moved into therapeutic bodywork as a flexibility coach and Muscle Activation Techniques (MAT®) specialist.",
+      "She enjoys working with a diverse clientele in an integrative way to bring relief and connection back into their body. She has experience in Swedish, Deep Tissue, Acupressure, Manual Lymphatic Drainage, and Sports massage.",
+    ],
+    therapies: [THERAPIES.Deep, THERAPIES.Swedish, THERAPIES.Acupressure, THERAPIES.Lymphatic, THERAPIES.Sports, THERAPIES.Cupping],
+  },
+  {
+    name: "Brittany Flaig",
+    bio: [
+      "Brittany fell in love with running at an early age, training on the scenic trails of the Virginia Appalachians. This passion would eventually take her to North Carolina to compete as a NCAA Division 1 Cross-Country and Track athlete. While in college, she became increasingly curious about the longevity, performance, and potential of the human body and pursued a Bachelor's of Science in Exercise Science and Nutrition.",
+      "After graduating, Brittany earned her NASM personal trainer certification and soon-after moved to Nashville. In 2022, she sharpened her skillset further by pursuing a license in massage therapy.",
+      "As a massage therapist and competitive runner, with an extensive background in fitness and nutrition, Brittany brings a uniquely intuitive and detailed approach to each session. She has worked with a number of clients including: runners, bikers, swimmers, triathletes, bodybuilders, powerlifters, gym-goers, extreme sports athletes, collegiate/professional athletes, military personnel, and musicians. She specializes in deep tissue massage, sports massage, cupping, active release therapy, myofascial release therapy, and neuromuscular/trigger point therapy.",
+    ],
+    therapies: [THERAPIES.Deep, THERAPIES.Sports, THERAPIES.Cupping, THERAPIES.Myofascial, THERAPIES.Neuromuscular, THERAPIES.Swedish],
   },
 ];
