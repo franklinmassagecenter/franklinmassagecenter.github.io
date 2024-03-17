@@ -131,15 +131,14 @@ window.therapists = [
       "Tia graduated from Cumberland Institute of Holistic Therapies in Brentwood, TN. She started out as a strength and conditioning coach in Colorado working with prospective D1 athletes and tactical personnel. She gradually moved into therapeutic bodywork as a flexibility coach and Muscle Activation Techniques (MAT®) specialist.",
       "She enjoys working with a diverse clientele in an integrative way to bring relief and connection back into their body. She has experience in Swedish, Deep Tissue, Acupressure, Manual Lymphatic Drainage, and Sports massage.",
     ],
-    therapies: [THERAPIES.Deep, THERAPIES.Swedish, THERAPIES.Acupressure, THERAPIES.Lymphatic, THERAPIES.Sports, THERAPIES.Cupping],
+    therapies: [THERAPIES.Deep, THERAPIES.Swedish, THERAPIES.Acupressure, THERAPIES.Lymphatic, THERAPIES.Sports, THERAPIES.Cupping, THERAPIES.Myofascial],
   },
   {
-    name: "Brittany Flaig",
+    name: "Rachel Mitchell",
     bio: [
-      "Brittany fell in love with running at an early age, training on the scenic trails of the Virginia Appalachians. This passion would eventually take her to North Carolina to compete as a NCAA Division 1 Cross-Country and Track athlete. While in college, she became increasingly curious about the longevity, performance, and potential of the human body and pursued a Bachelor's of Science in Exercise Science and Nutrition.",
-      "After graduating, Brittany earned her NASM personal trainer certification and soon-after moved to Nashville. In 2022, she sharpened her skillset further by pursuing a license in massage therapy.",
-      "As a massage therapist and competitive runner, with an extensive background in fitness and nutrition, Brittany brings a uniquely intuitive and detailed approach to each session. She has worked with a number of clients including: runners, bikers, swimmers, triathletes, bodybuilders, powerlifters, gym-goers, extreme sports athletes, collegiate/professional athletes, military personnel, and musicians. She specializes in deep tissue massage, sports massage, cupping, active release therapy, myofascial release therapy, and neuromuscular/trigger point therapy.",
+      "Rachel graduated massage school at Cumberland Institute of Holistic Therapies in 2015, specializing in Neuromuscular Therapies. She has since grown her knowledge using MediCupping™, Lymphatic Drainage, and Instrument Assisted Soft Tissue Mobilization. Rachel has a passion for helping athletes! Having done CrossFit for many years, she recently switched to doing amateur level Olympic Lifting, understanding the pressure, drive, and physical task performing at a high level can cost the body.",
+      "Rachel worked as a massage therapist for 8 years at Berry Hill Chiropractic and Wellness, earning herself a Chiropractic Therapy Assistant License, which was instrumental in helping her understand how to work with people of all walks of life, gaining invaluable experience with many types of patients. With her body work, clients will be able to work through stubborn trigger points, old injuries, scar tissue, inflammation, or just soreness from being awesome!",
     ],
-    therapies: [THERAPIES.Deep, THERAPIES.Sports, THERAPIES.Cupping, THERAPIES.Myofascial, THERAPIES.Neuromuscular, THERAPIES.Swedish],
+    therapies: [THERAPIES.Lymphatic, THERAPIES.Cupping, THERAPIES.Graston, THERAPIES.Neuromuscular, THERAPIES.Deep, THERAPIES.Sports, THERAPIES.Swedish],
   },
 ];
