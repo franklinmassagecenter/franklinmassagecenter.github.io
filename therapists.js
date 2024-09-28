@@ -88,22 +88,6 @@ window.therapists = [
     ],
   },
   {
-    name: "Sharunda Franklin",
-    bio: [
-      "Sharunda's desire to help people heal was sparked when she spent 10 years as a rehabilitation technician working with patients suffering from strokes, brain, and spinal injuries. This led her on a journey to approach healing in a more holistic way: understanding that the mind and body are connected.",
-      "She graduated as valedictorian from the Institute of Health and Tech. in 2018. She also worked as a medical massage therapist where she learned a variety of techniques and stretches to help relieve the body of tension and stress.",
-    ],
-    therapies: [
-      THERAPIES.Abdominal,
-      THERAPIES.Deep,
-      THERAPIES.Ashiatsu,
-      THERAPIES.Cupping,
-      THERAPIES.Swedish,
-      THERAPIES.Sports,
-      THERAPIES.Prenatal,
-    ],
-  },
-  {
     name: "Carrie Nye",
     bio: [
       "Carrie graduated from Birmingham School of Massage (Birmingham, AL) in February of 2014. She promotes wellness through personalized pain management and stress reduction therapy, and tailors each session to the client's specific needs/goals. In most therapy sessions, Carrie utilizes Swedish, Deep Tissue, & Neuromuscular techniques for a full body massage, to produce an \"all-encompassing\" therapeutic outcome.",
