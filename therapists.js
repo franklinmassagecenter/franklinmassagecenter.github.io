@@ -37,22 +37,6 @@ window.therapists = [
     ],
   },
   {
-    name: "Nicole Erwin",
-    bio: [
-      'Nicole graduated from Cumberland Institute in Brentwood, Tennessee and has been in practice for over 20 years. Throughout Nicole\'s career she has narrowed in on deep tissue, Ashiatsu, Manual Lymphatic Drainage and Scar Tissue Management. Known as the "Glute Queen," Nicole is known for her exceptional work on the gluteal muscle group. She has found that this important area of the body that connects our upper and lower is sadly often the most neglected by many Massage Therapists. Her technique combining Trigger Point Therapy and breath work allows the release of these muscles that often contribute to low back and hip pain',
-      "Equally, Nicole loves Ashiatsu, Manual Lymphatic Drainage and Scar Recovery work. Ashiatsu is a form of massage performed with her feet where she “walks on” you. Clients are often surprised at how relaxing this type of massage can be being such a deep tissue type work. If you have never tried Ashiatsu, you should! Manual Lymphatic Drainage and Scar Recovery is one of Nicole's favorite modalities. She has helped break up scar tissue and increase the flow of the lymphatic system for many clients post Plastic Surgery to assist in their healing journey. Clients suffering with allergies, edema (swelling), and auto-immune diseases gain great benefits from this type of work as well.",
-      "Whether you are a professional athlete, weekend warrior, stay at home parent or anyone in between, Nicole will do her best to address and tailor her massage to your needs."
-    ],
-    therapies: [
-      THERAPIES.Lymphatic,
-      THERAPIES.Swedish,
-      THERAPIES.Deep,
-      THERAPIES.Cupping,
-      THERAPIES.Ashiatsu,
-      THERAPIES.Scar
-    ],
-  },
-  {
     name: "Kiley Laframboise",
     bio: [
       'Kiley graduated in 2009 from Center for Massage and Natural Health in Asheville, North Carolina. Having worked closely with a chiropractor, she has a wealth of experience helping people get to the root of the pain. Kiley is skilled in many modalities such as Deep Tissue, Trigger Point, Sports (pre/post), Graston, Cupping Therapy, and Prenatal. Please see "Graston Technique" on our Services page for more information.',
@@ -118,11 +102,10 @@ window.therapists = [
     therapies: [THERAPIES.Deep, THERAPIES.Swedish, THERAPIES.Acupressure, THERAPIES.Lymphatic, THERAPIES.Sports, THERAPIES.Cupping, THERAPIES.Myofascial],
   },
   {
-    name: "Rachel Mitchell",
+    name: "Luna Roberts",
     bio: [
-      "Rachel graduated massage school at Cumberland Institute of Holistic Therapies in 2015, specializing in Neuromuscular Therapies. She has since grown her knowledge using MediCupping™, Lymphatic Drainage, and Instrument Assisted Soft Tissue Mobilization. Rachel has a passion for helping athletes! Having done CrossFit for many years, she recently switched to doing amateur level Olympic Lifting, understanding the pressure, drive, and physical task performing at a high level can cost the body.",
-      "Rachel worked as a massage therapist for 8 years at Berry Hill Chiropractic and Wellness, earning herself a Chiropractic Therapy Assistant License, which was instrumental in helping her understand how to work with people of all walks of life, gaining invaluable experience with many types of patients. With her body work, clients will be able to work through stubborn trigger points, old injuries, scar tissue, inflammation, or just soreness from being awesome!",
+      "Hey there, I'm Luna! I am a graduate of Cumberland Institute of Holistic Therapies in Brentwood, Tennessee. I got into the massage therapy field as a way to heal my own body, and I am very passionate about being able to use my skills to promote recovery to others. I am eager to keep growing my techniques to improve the health and injury of people. I enjoy bringing a nurturing and relaxing state of mind to be able to connect the body to healing in a holistic way.",
     ],
-    therapies: [THERAPIES.Lymphatic, THERAPIES.Cupping, THERAPIES.Graston, THERAPIES.Neuromuscular, THERAPIES.Deep, THERAPIES.Sports, THERAPIES.Swedish],
+    therapies: [THERAPIES.Deep, THERAPIES.Swedish, THERAPIES.Acupressure, THERAPIES.Craniosacral],
   },
 ];
