@@ -102,23 +102,6 @@ window.therapists = [
     ],
   },
   {
-    name: "Laura Stewart",
-    bio: [
-      "Laura creates a safe and nurturing environment for clients to experience profound relaxation and therapeutic restoration. Together she will work with you on a customized plan that is uniquely suited to your needs. Her approach to treatment includes craniosacral therapy, myofascial release and Reiki.  Treatments center on gently releasing restrictions from the body to help restore balance and function. She loves helping people who live with chronic pain are experiencing immune or nervous system disorders, migraine, neck pain, tmj disorder, injury, trauma, tension, anxiety, depression, and other disorders.",
-    ],
-    therapies: [
-      THERAPIES.Craniosacral, 
-      THERAPIES.Myofascial, 
-      THERAPIES.Reiki, 
-      THERAPIES.Deep, 
-      THERAPIES.Sports, 
-      THERAPIES.Swedish, 
-      THERAPIES.TMJ, 
-      THERAPIES.Prenatal, 
-      THERAPIES.Graston,
-    ],
-  },
-  {
     name: "Tia Day",
     bio: [
       "Tia graduated from Cumberland Institute of Holistic Therapies in Brentwood, TN. She started out as a strength and conditioning coach in Colorado working with prospective D1 athletes and tactical personnel. She gradually moved into therapeutic bodywork as a flexibility coach and Muscle Activation Techniques (MAT®) specialist.",
