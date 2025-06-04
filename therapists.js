@@ -196,4 +196,18 @@ window.therapists = [
       THERAPIES.Prenatal,
     ],
   },
+  {
+    name: "Kate Wicks",
+    bio: [
+      "I'm a graduate of the Nashville School of Massage Therapy and have had the privilege of working with athletes at all levels—from high school to professional—supporting them in injury prevention, recovery, and overall pain management. My practice is centered around helping each individual enhance their athletic performance and build long-term resilience through improved flexibility, range of motion, and movement tailored to their specific sport. I draw from a variety of techniques, including neuromuscular therapy, cupping, and fascial stretching, to create a personalized approach that meets each client's specific goals.",
+    ],
+    therapies: [
+      THERAPIES.Cupping,
+      THERAPIES.Graston,
+      THERAPIES.Lymphatic,
+      THERAPIES.Myofascial,
+      THERAPIES.Neuromuscular,
+      THERAPIES.Prenatal,
+    ],
+  },
 ];
