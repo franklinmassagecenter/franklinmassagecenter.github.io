@@ -122,20 +122,6 @@ window.therapists = [
     ],
   },
   {
-    name: "Luna Roberts",
-    bio: [
-      "Hey there, I'm Luna! I am a graduate of Cumberland Institute of Holistic Therapies in Brentwood, Tennessee. I got into the massage therapy field as a way to heal my own body, and I am very passionate about being able to use my skills to promote recovery to others. I am eager to keep growing my techniques to improve the health and injury of people. I enjoy bringing a nurturing and relaxing state of mind to be able to connect the body to healing in a holistic way.",
-    ],
-    therapies: [
-      THERAPIES.Deep, 
-      THERAPIES.Swedish, 
-      THERAPIES.Acupressure, 
-      THERAPIES.Craniosacral, 
-      THERAPIES.Sports, 
-      THERAPIES.Cupping,
-    ]
-  },
-  {
     name: "Mallory Barbee",
     bio: [
       "Mallory graduated from the Nashville School of Massage in 2017. As a life-long athlete, she recognized that pursuing a career in massage therapy would allow her to help clients achieve their fitness goals while minimizing the risk of injury. Over the past eight years, Mallory has worked with a diverse clientele, including professional athletes from the NFL, NHL, and MLB, as well as stylists, surgeons, teachers, and individuals seeking relaxation.",
