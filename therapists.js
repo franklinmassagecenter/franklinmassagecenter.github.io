@@ -88,20 +88,6 @@ window.therapists = [
     ],
   },
   {
-    name: "Zoë Greene",
-    bio: [
-      "Hi, my name is Zoë! My goal is to provide a supportive space for my clients to find their inner relaxation so they can live more fully and connected to their body. I love helping people create balance within their bodies through the power of massage therapy. I graduated from the Nashville School of Massage Therapy where I received an academic award of excellence for my work. I have also trained in neuromuscular massage therapy at the Cumberland Institute of Holistic Therapies in order to help clients with muscle pain management. I believe through calming touch, I can offer a sense of peace and well-being for all my clients.",
-    ],
-    therapies: [
-      THERAPIES.Deep, 
-      THERAPIES.Myofascial, 
-      THERAPIES.Neuromuscular, 
-      THERAPIES.Stretching, 
-      THERAPIES.Swedish, 
-      THERAPIES.Ashiatsu,
-    ],
-  },
-  {
     name: "Tia Day",
     bio: [
       "Tia graduated from Cumberland Institute of Holistic Therapies in Brentwood, TN. She started out as a strength and conditioning coach in Colorado working with prospective D1 athletes and tactical personnel. She gradually moved into therapeutic bodywork as a flexibility coach and Muscle Activation Techniques (MAT®) specialist.",
