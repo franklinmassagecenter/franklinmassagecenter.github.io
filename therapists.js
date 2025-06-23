@@ -25,9 +25,10 @@ window.therapists = [
   {
     name: "Robin Barbee",
     bio: [
-      "As Director and Owner of Franklin Massage Center, Robin is passionate about serving the diverse health care needs of the Franklin, Brentwood, and Nashville areas. With her team of high-quality therapists, she has succeeded in delivering the best in specialized Massage Therapy for athletes.",
-      "Robin graduated from the Tennessee School of Massage Therapy in Memphis, Tennessee in 2000. Inspired by her initial training in Deep Tissue Massage, over the last two decades, she has developed her own form of therapeutic massage which includes stretching techniques, Cupping Therapy, and specialized techniques to address the specific needs of athletes. Having worked with many marathon runners and ironmen, Robin has become passionate about helping athletes achieve their goals of leading high-functioning, injury-free lives.",
-      "Robin's passion for working with athletes had her voted \"Best Massage Therapist\" by Nashville Fit Magazine in 2017. She has worked with the NFL, NBA, NHL, MLB as well as the Lipscomb softball team, triathletes, Ironmen, Full and Half Marathoners, and Trail and Distance Runners. Many Nashville athletes credit Robin's detailed work on their legs with keeping them at their highest competitive level.",
+      "Director and Owner of Franklin Massage Center, Robin brings 25 years of experience in advanced therapeutic massage and sports recovery. She is committed to providing highly specialized care for athletes and active individuals across Franklin, Brentwood, and Nashville.",
+      "A 2000 graduate of the Tennessee School of Massage Therapy in Memphis, Robin has developed a unique, clinically focused approach that integrates Deep Tissue Massage, Cupping Therapy, Graston Technique, and targeted mobility work to enhance athletic performance, speed recovery, and prevent injury.",
+      "Robin has worked with professional athletes from the NFL, NBA, NHL, and MLB, as well as Ironman competitors, marathoners, endurance runners, and collegiate athletes, including the Lipscomb University softball team. Her reputation for precision bodywork and deep understanding of athletic biomechanics has earned her the trust of many in the sports community. In 2017, she was voted Best Massage Therapist by \"Nashville Fit Magazine\".",
+      "Robin works closely with Berry Hill Chiropractic and Wellness and Nashville Physical Therapy to ensure a comprehensive and collaborative approach to athletic care and rehabilitation.",
     ],
     therapies: [
       THERAPIES.Deep,
