@@ -89,26 +89,6 @@ window.therapists = [
     ],
   },
   {
-    name: "Tia Day",
-    bio: [
-      "Tia graduated from Cumberland Institute of Holistic Therapies in Brentwood, TN. She started out as a strength and conditioning coach in Colorado working with prospective D1 athletes and tactical personnel. She gradually moved into therapeutic bodywork as a flexibility coach and Muscle Activation Techniques (MAT®) specialist.",
-      "She enjoys working with a diverse clientele in an integrative way to bring relief and connection back into their body. She has experience in Swedish, Deep Tissue, Acupressure, Manual Lymphatic Drainage, and Sports massage.",
-    ],
-    therapies: [
-      THERAPIES.Deep,
-      THERAPIES.Swedish,
-      THERAPIES.Acupressure,
-      THERAPIES.Lymphatic,
-      THERAPIES.Sports,
-      THERAPIES.Cupping,
-      THERAPIES.Myofascial,
-      THERAPIES.Graston,
-      THERAPIES.Acupressure,
-      THERAPIES.KT,
-      THERAPIES.Scrape,
-    ],
-  },
-  {
     name: "Mallory Barbee",
     bio: [
       "Mallory graduated from the Nashville School of Massage in 2017. As a life-long athlete, she recognized that pursuing a career in massage therapy would allow her to help clients achieve their fitness goals while minimizing the risk of injury. Over the past eight years, Mallory has worked with a diverse clientele, including professional athletes from the NFL, NHL, and MLB, as well as stylists, surgeons, teachers, and individuals seeking relaxation.",
@@ -134,7 +114,9 @@ window.therapists = [
       THERAPIES.Swedish,
       THERAPIES.Sports,
       THERAPIES.Cupping,
-      THERAPIES.Craniosacral
+      THERAPIES.Craniosacral,
+      THERAPIES.Myofascial,
+      THERAPIES.Graston,
     ],
   },
   {
@@ -165,6 +147,9 @@ window.therapists = [
       THERAPIES.Myofascial,
       THERAPIES.Neuromuscular,
       THERAPIES.Prenatal,
+      THERAPIES.Deep,
+      THERAPIES.Swedish,
+      THERAPIES.Sports
     ],
   },
   {
@@ -183,6 +168,21 @@ window.therapists = [
       THERAPIES.Lymphatic,
       THERAPIES.Swedish,
       THERAPIES.Deep,
+    ],
+  },
+  {
+    name: "Mary Vaughn",
+    bio: [
+      "I'm a proud Nashville native with a genuine passion for serving this community. After graduating from the Cumberland Institute in 2024, I've continued to expand my knowledge through ongoing education and personal study.",
+      "In each session, I take a personalized approach by blending techniques to meet the unique needs of every client. My specialties include Neuromuscular (trigger point) Therapy and Acupressure, which I integrate to create treatments that are both deeply therapeutic and relaxing.",
+      "Above all, my goal is to meet clients where they are and support them on their healing journey—helping restore balance, relieve pain, and promote overall well-being.",
+    ],
+    therapies: [
+      THERAPIES.Myofascial,
+      THERAPIES.Craniosacral,
+      THERAPIES.Neuromuscular,
+      THERAPIES.Reiki,
+      THERAPIES.Acupressure,
     ],
   },
 ];
