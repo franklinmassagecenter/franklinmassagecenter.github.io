@@ -142,9 +142,10 @@ window.therapists = [
   {
     name: "Victoria Wares",
     bio: [
-      "Victoria Wares is a licensed massage therapist with over ten years of experience specializing in Ashiatsu and manual lymphatic drainage. Her work combines anatomical precision with a calming, therapeutic presence to support each client's individual needs.",
-      "She uses Ashiatsu to deliver consistent, deep pressure that addresses chronic tension without causing discomfort. Her lymphatic massage techniques promote healthy circulation, reduce swelling, and support post-surgical recovery and immune function.",
-      "Victoria is known for her professionalism, attention to detail, and commitment to creating a safe, supportive environment where clients can experience real, lasting results.",
+      "I offer an elevated approach to bodywork that feels as good for your nervous system as it does for your muscles. My sessions blend artistry and advanced technique to create true depth through awareness, not force. Every touch is intentional, and every movement is designed to bring your body into harmony.",
+      "My work focuses on smart, effective depth — the kind that melts tension and encourages lasting release without strain or pain. Using Ashiatsu, cupping, and warm stone therapy, I reach deep layers safely and intuitively, allowing your body to unwind at its own pace.",
+      "I'm also a certified Manual Lymphatic Drainage therapist, offering gentle, rhythmic treatments that support post-surgical recovery, detoxification, and overall balance. These sessions help restore the body's natural flow, leaving you lighter, clearer, and deeply relaxed.",
+      "Clients describe my touch as fluid, intuitive, and transformative — a blend of skill and sensitivity that invites deep calm and renewal."
     ],
     therapies: [
       THERAPIES.Ashiatsu,
