@@ -196,6 +196,11 @@ window.therapists = [
       "In addition to massage, I hold a degree in Integrative Health, a certification in Wellness Coaching, and I'm currently training in Frequency Specific Microcurrent (FSM). My approach is always to look at the whole person—inside and out—to uncover what's really going on and support each client on their unique wellness journey."
     ],
     therapies: [
+      THERAPIES.Prenatal,
+      THERAPIES.Cupping,
+      THERAPIES.Myofascial,
+      THERAPIES.Acupressure,
+      THERAPIES.Reflexology,
     ],
   },
 ];
