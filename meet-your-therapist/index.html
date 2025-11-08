@@ -17,7 +17,7 @@
     <meta name="robots" content="max-image-preview:large" />
     <script src="/wp-content/themes/fmc/js/jquery-1.9.1.js"></script>
     <script src="/wp-content/themes/fmc/js/jquery-ui-1.10.3.custom.min.js"></script>
-    <script src="/therapists.min.47.js"></script>
+    <script src="/therapists.min.48.js"></script>
   </head>
 
   <body class="page-template-default page page-id-138">
@@ -125,9 +125,15 @@
       $(function () {
         var therpistsEl = document.getElementById("therapists");
 
-        for (var i = 0; i < window.therapists.length; i++) {
+        var sortedTherapists = window.therapists.slice().sort(function(a, b) {
+          if (a.name === "Robin Barbee") return -1;
+          if (b.name === "Robin Barbee") return 1;
+          return a.name.localeCompare(b.name);
+        });
+
+        for (var i = 0; i < sortedTherapists.length; i++) {
           var h3, div, p;
-          var therapist = window.therapists[i];
+          var therapist = sortedTherapists[i];
           h3 = document.createElement("h3");
           h3.innerText = therapist.name.toUpperCase();
           therpistsEl.appendChild(h3);
