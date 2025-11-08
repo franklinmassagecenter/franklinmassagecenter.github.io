@@ -13,6 +13,7 @@ window.THERAPIES = {
   Neuromuscular: "Neuromuscular",
   Prenatal: "Prenatal Massage",
   Reiki: "Reiki",
+  Reflexology: "Reflexology",
   Scar: "Scar Recovery",
   Scrape: "Scrape & Tape",
   Sports: "Sports",
@@ -37,21 +38,6 @@ window.therapists = [
       THERAPIES.Sports,
       THERAPIES.Swedish,
       THERAPIES.TMJ,
-    ],
-  },
-  {
-    name: "Kiley Laframboise",
-    bio: [
-      'Kiley graduated in 2009 from Center for Massage and Natural Health in Asheville, North Carolina. Having worked closely with a chiropractor, she has a wealth of experience helping people get to the root of the pain. Kiley is skilled in many modalities such as Deep Tissue, Trigger Point, Sports (pre/post), Graston, Cupping Therapy, and Prenatal. Please see "Graston Technique" on our Services page for more information.',
-    ],
-    therapies: [
-      THERAPIES.Deep,
-      THERAPIES.Sports,
-      THERAPIES.Swedish,
-      THERAPIES.Cupping,
-      THERAPIES.Graston,
-      THERAPIES.Prenatal,
-      THERAPIES.Myofascial,
     ],
   },
   {
@@ -149,7 +135,8 @@ window.therapists = [
       THERAPIES.Prenatal,
       THERAPIES.Deep,
       THERAPIES.Swedish,
-      THERAPIES.Sports
+      THERAPIES.Sports,
+      THERAPIES.TMJ
     ],
   },
   {
@@ -168,6 +155,7 @@ window.therapists = [
       THERAPIES.Lymphatic,
       THERAPIES.Swedish,
       THERAPIES.Deep,
+      THERAPIES.TMJ
     ],
   },
   {
@@ -183,6 +171,31 @@ window.therapists = [
       THERAPIES.Neuromuscular,
       THERAPIES.Reiki,
       THERAPIES.Acupressure,
+      THERAPIES.TMJ,
+    ],
+  },
+  {
+    name: "Yolanda Martinez",
+    bio: [
+      "With over 16 years of experience in the massage industry, I specialize in myofascial release and therapeutic massage. I graduated from Southeastern Institute in Nashville in 2009 and have had the privilege of working alongside several chiropractors, deepening my skills in pain relief and body restoration.",
+      "My true passion is helping clients feel renewed, balanced, and restored—mind, body, and spirit.",
+    ],
+    therapies: [
+      THERAPIES.Sports,
+      THERAPIES.Myofascial,
+      THERAPIES.Reflexology,
+      THERAPIES.Deep,
+      THERAPIES.Neuromuscular,
+    ],
+  },
+  {
+    name: "Libby Rodriguez",
+    bio: [
+      "I've been practicing massage therapy since May 2018, though I never expected it to become my career. Before training, I thought massage was just a luxury spa treatment, but I quickly discovered how powerful it can be in supporting real healing. My love of anatomy and physiology, combined with a hands-on “let's see if this works” approach, helped me develop a massage style that is deep, corrective, and relaxing all at the same time.",
+      "For the first five years after massage school, I worked in private practice with Firefighters and Veterans, where I learned just how connected the body and mind truly are. After relocating with my family to the greater Nashville area in 2023, I trained in Myofascial Trigger Point Therapy, a technique that focuses on pain patterns to find the root of discomfort.",
+      "In addition to massage, I hold a degree in Integrative Health, a certification in Wellness Coaching, and I'm currently training in Frequency Specific Microcurrent (FSM). My approach is always to look at the whole person—inside and out—to uncover what's really going on and support each client on their unique wellness journey."
+    ],
+    therapies: [
     ],
   },
 ];
