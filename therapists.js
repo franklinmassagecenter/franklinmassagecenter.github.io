@@ -176,20 +176,6 @@ window.therapists = [
     ],
   },
   {
-    name: "Yolanda Martinez",
-    bio: [
-      "With over 16 years of experience in the massage industry, I specialize in myofascial release and therapeutic massage. I graduated from Southeastern Institute in Nashville in 2009 and have had the privilege of working alongside several chiropractors, deepening my skills in pain relief and body restoration.",
-      "My true passion is helping clients feel renewed, balanced, and restored—mind, body, and spirit.",
-    ],
-    therapies: [
-      THERAPIES.Sports,
-      THERAPIES.Myofascial,
-      THERAPIES.Reflexology,
-      THERAPIES.Deep,
-      THERAPIES.Neuromuscular,
-    ],
-  },
-  {
     name: "Libby Rodriguez",
     bio: [
       "I've been practicing massage therapy since May 2018, though I never expected it to become my career. Before training, I thought massage was just a luxury spa treatment, but I quickly discovered how powerful it can be in supporting real healing. My love of anatomy and physiology, combined with a hands-on “let's see if this works” approach, helped me develop a massage style that is deep, corrective, and relaxing all at the same time.",
