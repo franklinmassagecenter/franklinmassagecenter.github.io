@@ -106,22 +106,6 @@ window.therapists = [
     ],
   },
   {
-    name: "Sharunda Franklin",
-    bio: [
-      "Sharunda's desire to help people heal was sparked when she spent 10 years as a rehabilitation technician working with patients suffering from strokes, brain, and spinal injuries. This led her on a journey to approach healing in a more holistic way: understanding that the mind and body are connected.",
-      "She graduated as valedictorian from the Institute of Health and Tech. in 2018. She also worked as a medical massage therapist where she learned a variety of techniques and stretches to help relieve the body of tension and stress.",
-    ],
-    therapies: [
-      THERAPIES.Abdominal,
-      THERAPIES.Deep,
-      THERAPIES.Ashiatsu,
-      THERAPIES.Cupping,
-      THERAPIES.Swedish,
-      THERAPIES.Sports,
-      THERAPIES.Prenatal,
-    ],
-  },
-  {
     name: "Kate Wicks",
     bio: [
       "I'm a graduate of the Nashville School of Massage Therapy and have had the privilege of working with athletes at all levels—from high school to professional—supporting them in injury prevention, recovery, and overall pain management. My practice is centered around helping each individual enhance their athletic performance and build long-term resilience through improved flexibility, range of motion, and movement tailored to their specific sport. I draw from a variety of techniques, including neuromuscular therapy, cupping, and fascial stretching, to create a personalized approach that meets each client's specific goals.",
