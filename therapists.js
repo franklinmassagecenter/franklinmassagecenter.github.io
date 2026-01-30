@@ -157,6 +157,7 @@ window.therapists = [
       THERAPIES.Reiki,
       THERAPIES.Acupressure,
       THERAPIES.TMJ,
+      THERAPIES.Deep,
     ],
   },
   {
@@ -172,6 +173,7 @@ window.therapists = [
       THERAPIES.Myofascial,
       THERAPIES.Acupressure,
       THERAPIES.Reflexology,
+      THERAPIES.Deep,
     ],
   },
 ];
