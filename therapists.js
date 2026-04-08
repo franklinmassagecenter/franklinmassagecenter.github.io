@@ -176,4 +176,20 @@ window.therapists = [
       THERAPIES.Deep,
     ],
   },
+  
+  {
+    name: "Jessica Sowards",
+    bio: [
+      "Based in Nashville, I offer integrative bodywork designed to deliver effective, results-driven care tailored to each client. With training from Cumberland Holistic Therapies, I incorporate techniques such as deep tissue work, facial therapy, and therapeutic scraping to support muscular release, improved function, and overall well-being.",
+      "Each session is thoughtfully customized, addressing both the structural and energetic aspects of the body. My approach is attentive, intuitive, and focused on helping clients move better, feel better, and maintain long-term wellness.",
+      "I am currently expanding my practice through the study of Healing Touch energy work, a modality similar to Reiki, to further support balance, relaxation, and the body's natural healing process."
+    ],
+    therapies: [
+      THERAPIES.Deep,
+      THERAPIES.Swedish,
+      THERAPIES.Graston,
+      THERAPIES.Craniosacral,
+      THERAPIES.Acupressure,
+    ],
+  },
 ];
