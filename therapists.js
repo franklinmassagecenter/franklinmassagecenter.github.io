@@ -2,6 +2,7 @@ window.THERAPIES = {
   Abdominal: "Abdominal Therapy",
   Acupressure: "Acupressure",
   Ashiatsu: "Ashiatsu",
+  Buccal: "Buccal Therapy",
   Craniosacral: "Craniosacral Therapy",
   Cupping: "Cupping Therapy",
   Deep: "Deep Tissue",
@@ -58,6 +59,7 @@ window.therapists = [
       THERAPIES.Prenatal,
       THERAPIES.Energetic,
       THERAPIES.Reiki,
+      THERAPIES.Buccal,
     ],
   },
   {
