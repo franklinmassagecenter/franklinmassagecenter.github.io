@@ -146,23 +146,6 @@ window.therapists = [
     ],
   },
   {
-    name: "Mary Vaughn",
-    bio: [
-      "I'm a proud Nashville native with a genuine passion for serving this community. After graduating from the Cumberland Institute in 2024, I've continued to expand my knowledge through ongoing education and personal study.",
-      "In each session, I take a personalized approach by blending techniques to meet the unique needs of every client. My specialties include Neuromuscular (trigger point) Therapy and Acupressure, which I integrate to create treatments that are both deeply therapeutic and relaxing.",
-      "Above all, my goal is to meet clients where they are and support them on their healing journey—helping restore balance, relieve pain, and promote overall well-being.",
-    ],
-    therapies: [
-      THERAPIES.Myofascial,
-      THERAPIES.Craniosacral,
-      THERAPIES.Neuromuscular,
-      THERAPIES.Reiki,
-      THERAPIES.Acupressure,
-      THERAPIES.TMJ,
-      THERAPIES.Deep,
-    ],
-  },
-  {
     name: "Libby Rodriguez",
     bio: [
       "I've been practicing massage therapy since May 2018, though I never expected it to become my career. Before training, I thought massage was just a luxury spa treatment, but I quickly discovered how powerful it can be in supporting real healing. My love of anatomy and physiology, combined with a hands-on “let's see if this works” approach, helped me develop a massage style that is deep, corrective, and relaxing all at the same time.",
@@ -178,7 +161,6 @@ window.therapists = [
       THERAPIES.Deep,
     ],
   },
-  
   {
     name: "Jessica Sowards",
     bio: [
@@ -192,6 +174,22 @@ window.therapists = [
       THERAPIES.Graston,
       THERAPIES.Craniosacral,
       THERAPIES.Acupressure,
+    ],
+  },
+  {
+    name: "TaTionia Harris",
+    bio: [
+      "I am a Licensed Massage Therapist and a 2018 graduate of Daymar Institute of Nashville. My practice focuses on providing customized, results-oriented bodywork designed to meet each client's unique needs and wellness goals.",
+      "My areas of expertise include Deep Tissue, Swedish, Prenatal, Myofascial Release, Hot Stone Therapy, Trigger Point Therapy, and assisted stretching techniques. Whether a client is seeking relief from chronic tension, recovering from physical stress, or simply looking to relax and recharge, I tailor each session to provide the most effective treatment possible.",
+      "I take a client-centered approach, combining clinical knowledge with a keen awareness of the body's patterns and responses. By integrating multiple therapeutic techniques when appropriate, I help reduce pain, improve mobility, relieve stress, and promote overall well-being.",
+      "My goal is to create a safe, comfortable environment where clients feel heard, supported, and confident in their care. I am committed to helping every client move, feel, and function at their best through thoughtful, personalized care."
+    ],
+    therapies: [
+      THERAPIES.Deep,
+      THERAPIES.Swedish,
+      THERAPIES.Prenatal,
+      THERAPIES.Myofascial,
+      THERAPIES.Stretching,
     ],
   },
 ];
