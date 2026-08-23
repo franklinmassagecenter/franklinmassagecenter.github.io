@@ -176,20 +176,4 @@ window.therapists = [
       THERAPIES.Acupressure,
     ],
   },
-  {
-    name: "TaTionia Harris",
-    bio: [
-      "I am a Licensed Massage Therapist and a 2018 graduate of Daymar Institute of Nashville. My practice focuses on providing customized, results-oriented bodywork designed to meet each client's unique needs and wellness goals.",
-      "My areas of expertise include Deep Tissue, Swedish, Prenatal, Myofascial Release, Hot Stone Therapy, Trigger Point Therapy, and assisted stretching techniques. Whether a client is seeking relief from chronic tension, recovering from physical stress, or simply looking to relax and recharge, I tailor each session to provide the most effective treatment possible.",
-      "I take a client-centered approach, combining clinical knowledge with a keen awareness of the body's patterns and responses. By integrating multiple therapeutic techniques when appropriate, I help reduce pain, improve mobility, relieve stress, and promote overall well-being.",
-      "My goal is to create a safe, comfortable environment where clients feel heard, supported, and confident in their care. I am committed to helping every client move, feel, and function at their best through thoughtful, personalized care."
-    ],
-    therapies: [
-      THERAPIES.Deep,
-      THERAPIES.Swedish,
-      THERAPIES.Prenatal,
-      THERAPIES.Myofascial,
-      THERAPIES.Stretching,
-    ],
-  },
 ];
