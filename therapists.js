@@ -146,22 +146,6 @@ window.therapists = [
     ],
   },
   {
-    name: "Libby Rodriguez",
-    bio: [
-      "I've been practicing massage therapy since May 2018, though I never expected it to become my career. Before training, I thought massage was just a luxury spa treatment, but I quickly discovered how powerful it can be in supporting real healing. My love of anatomy and physiology, combined with a hands-on “let's see if this works” approach, helped me develop a massage style that is deep, corrective, and relaxing all at the same time.",
-      "For the first five years after massage school, I worked in private practice with Firefighters and Veterans, where I learned just how connected the body and mind truly are. After relocating with my family to the greater Nashville area in 2023, I trained in Myofascial Trigger Point Therapy, a technique that focuses on pain patterns to find the root of discomfort.",
-      "In addition to massage, I hold a degree in Integrative Health, a certification in Wellness Coaching, and I'm currently training in Frequency Specific Microcurrent (FSM). My approach is always to look at the whole person—inside and out—to uncover what's really going on and support each client on their unique wellness journey."
-    ],
-    therapies: [
-      THERAPIES.Prenatal,
-      THERAPIES.Cupping,
-      THERAPIES.Myofascial,
-      THERAPIES.Acupressure,
-      THERAPIES.Reflexology,
-      THERAPIES.Deep,
-    ],
-  },
-  {
     name: "Jessica Sowards",
     bio: [
       "Based in Nashville, I offer integrative bodywork designed to deliver effective, results-driven care tailored to each client. With training from Cumberland Holistic Therapies, I incorporate techniques such as deep tissue work, facial therapy, and therapeutic scraping to support muscular release, improved function, and overall well-being.",
