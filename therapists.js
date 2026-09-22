@@ -63,20 +63,6 @@ window.therapists = [
     ],
   },
   {
-    name: "Carrie Nye",
-    bio: [
-      "Carrie graduated from Birmingham School of Massage (Birmingham, AL) in February of 2014. She promotes wellness through personalized pain management and stress reduction therapy, and tailors each session to the client's specific needs/goals. In most therapy sessions, Carrie utilizes Swedish, Deep Tissue, & Neuromuscular techniques for a full body massage, to produce an \"all-encompassing\" therapeutic outcome.",
-      "Carrie is passionate about combining her skills to produce both physical and psychological benefits for her clients, and believes in utilizing massage therapy for treatment of anxiety and depression as well. She prides herself in assisting not only physical healing, but also mental and emotional healing by helping the brain produce those \"happy chemicals\" via massage therapy."
-    ],
-    therapies: [
-      THERAPIES.Deep,
-      THERAPIES.Neuromuscular,
-      THERAPIES.Swedish,
-      THERAPIES.Prenatal,
-      THERAPIES.Sports,
-    ],
-  },
-  {
     name: "Mallory Barbee",
     bio: [
       "Mallory graduated from the Nashville School of Massage in 2017. As a life-long athlete, she recognized that pursuing a career in massage therapy would allow her to help clients achieve their fitness goals while minimizing the risk of injury. Over the past eight years, Mallory has worked with a diverse clientele, including professional athletes from the NFL, NHL, and MLB, as well as stylists, surgeons, teachers, and individuals seeking relaxation.",
