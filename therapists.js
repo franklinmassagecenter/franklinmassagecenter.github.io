@@ -42,27 +42,6 @@ window.therapists = [
     ],
   },
   {
-    name: "Kathryn Marks",
-    bio: [
-      "Hi, I'm Kathryn! I have been a licensed massage therapist since 2015. As a therapist, I believe that one should never stop being curious and learning about the mind, body, and spiritual/emotional connections. I fully believe that all of these are connected and play a big part in our wellbeing. I am a reiki healer on top of being a massage therapist, so I like integrating the spiritual with the physical. It is my favorite way of working!",
-      "I am also very experienced with deep tissue, cupping, graston, and neuromuscular therapy. I work on a lot of clients with neck and hip issues. Believe it or not, they are connected! If you like what you're reading, I hope to see you soon!",
-    ],
-    therapies: [
-      THERAPIES.Deep,
-      THERAPIES.Myofascial,
-      THERAPIES.Swedish,
-      THERAPIES.Sports,
-      THERAPIES.Cupping,
-      THERAPIES.Neuromuscular,
-      THERAPIES.Stretching,
-      THERAPIES.Graston,
-      THERAPIES.Prenatal,
-      THERAPIES.Energetic,
-      THERAPIES.Reiki,
-      THERAPIES.Buccal,
-    ],
-  },
-  {
     name: "Mallory Barbee",
     bio: [
       "Mallory graduated from the Nashville School of Massage in 2017. As a life-long athlete, she recognized that pursuing a career in massage therapy would allow her to help clients achieve their fitness goals while minimizing the risk of injury. Over the past eight years, Mallory has worked with a diverse clientele, including professional athletes from the NFL, NHL, and MLB, as well as stylists, surgeons, teachers, and individuals seeking relaxation.",
