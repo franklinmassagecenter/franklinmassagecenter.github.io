@@ -69,7 +69,7 @@ window.therapists = [
       THERAPIES.Cupping,
       THERAPIES.Craniosacral,
       THERAPIES.Myofascial,
-      THERAPIES.Graston,
+      THERAPIES.Lymphatic,
     ],
   },
   {
@@ -103,11 +103,10 @@ window.therapists = [
       THERAPIES.Graston,
       THERAPIES.Cupping,
       THERAPIES.Acupressure,
-      THERAPIES.Reiki,
       THERAPIES.Lymphatic,
       THERAPIES.Swedish,
       THERAPIES.Deep,
-      THERAPIES.TMJ
+      THERAPIES.Sports,
     ],
   },
   {
@@ -115,7 +114,7 @@ window.therapists = [
     bio: [
       "Based in Nashville, I offer integrative bodywork designed to deliver effective, results-driven care tailored to each client. With training from Cumberland Holistic Therapies, I incorporate techniques such as deep tissue work, facial therapy, and therapeutic scraping to support muscular release, improved function, and overall well-being.",
       "Each session is thoughtfully customized, addressing both the structural and energetic aspects of the body. My approach is attentive, intuitive, and focused on helping clients move better, feel better, and maintain long-term wellness.",
-      "I am currently expanding my practice through the study of Healing Touch energy work, a modality similar to Reiki, to further support balance, relaxation, and the body's natural healing process."
+      "I am currently expanding my practice through the study of Healing Touch energy work to further support balance, relaxation, and the body's natural healing process."
     ],
     therapies: [
       THERAPIES.Deep,
@@ -123,6 +122,36 @@ window.therapists = [
       THERAPIES.Graston,
       THERAPIES.Craniosacral,
       THERAPIES.Acupressure,
+    ],
+  },
+  {
+    name: "Tripp",
+    bio: [
+      "Hello, I'm Tripp! I graduated from Bluewater Institute for Massage Therapy in Killen, Alabama, in early 2024. With 15 years of experience as a cheerleading coach, I bring an understanding of movement, muscular demands, and the importance of recovery to my massage practice.",
+      "I specialize in therapeutic, deep tissue, and sports massage, incorporating cupping and Graston instrument-assisted soft tissue techniques to address muscular tension, soft tissue restrictions, and mobility concerns. I tailor each session to your needs, whether you're managing ongoing discomfort, recovering from training, or seeking relaxation.",
+      "My approach combines targeted bodywork with a comfortable, welcoming experience to help you move more freely, recover, and feel your best.",
+    ],
+    therapies: [
+      THERAPIES.Deep,
+      THERAPIES.Graston,
+      THERAPIES.Prenatal,
+      THERAPIES.Sports,
+      THERAPIES.Swedish,
+    ],
+  },
+  {
+    name: "Craig Elliott",
+    bio: [
+      "Hello, I'm Craig! As a veteran and former athlete, I understand the demands that training, work, and everyday life place on the body. With five years of experience serving clients across the Nashville area, I specialize in therapeutic massage focused on relieving chronic muscular tension, improving mobility, and supporting recovery.",
+      "My approach combines targeted soft tissue work with an understanding of how muscle tension and movement patterns can contribute to discomfort. I work with you to identify areas of concern and tailor each session to your needs, comfort level, and physical goals.",
+      "Whether you're managing ongoing tension, recovering from physical activity, or seeking greater ease of movement, my goal is to help you move more comfortably and feel your best.",
+    ],
+    therapies: [
+      THERAPIES.Deep,
+      THERAPIES.Myofascial,
+      THERAPIES.Prenatal,
+      THERAPIES.Sports,
+      THERAPIES.Swedish,
     ],
   },
 ];
