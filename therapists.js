@@ -125,7 +125,7 @@ window.therapists = [
     ],
   },
   {
-    name: "Tripp",
+    name: "Tripp Vaughn",
     bio: [
       "Hello, I'm Tripp! I graduated from Bluewater Institute for Massage Therapy in Killen, Alabama, in early 2024. With 15 years of experience as a cheerleading coach, I bring an understanding of movement, muscular demands, and the importance of recovery to my massage practice.",
       "I specialize in therapeutic, deep tissue, and sports massage, incorporating cupping and Graston instrument-assisted soft tissue techniques to address muscular tension, soft tissue restrictions, and mobility concerns. I tailor each session to your needs, whether you're managing ongoing discomfort, recovering from training, or seeking relaxation.",
