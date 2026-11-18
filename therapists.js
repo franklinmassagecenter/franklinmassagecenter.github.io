@@ -57,22 +57,6 @@ window.therapists = [
     ],
   },
   {
-    name: "Rookh McClellan",
-    bio: [
-      "Hi, I'm Rookh, a certified massage therapist and a proud graduate of the Cumberland Institute of Holistic Therapies (Class of 2019). I'm passionate about providing personalized treatments that promote relaxation, healing, and overall wellness. Whether you're seeking relief from stress, muscle tension, or physical discomfort, I create a calming environment to support your body and mind.,",
-      "Let's work together to help you feel balanced, restored, and renewed."
-    ],
-    therapies: [
-      THERAPIES.Deep,
-      THERAPIES.Swedish,
-      THERAPIES.Sports,
-      THERAPIES.Cupping,
-      THERAPIES.Craniosacral,
-      THERAPIES.Myofascial,
-      THERAPIES.Lymphatic,
-    ],
-  },
-  {
     name: "Kate Wicks",
     bio: [
       "I'm a graduate of the Nashville School of Massage Therapy and have had the privilege of working with athletes at all levels—from high school to professional—supporting them in injury prevention, recovery, and overall pain management. My practice is centered around helping each individual enhance their athletic performance and build long-term resilience through improved flexibility, range of motion, and movement tailored to their specific sport. I draw from a variety of techniques, including neuromuscular therapy, cupping, and fascial stretching, to create a personalized approach that meets each client's specific goals.",
@@ -132,6 +116,7 @@ window.therapists = [
       "My approach combines targeted bodywork with a comfortable, welcoming experience to help you move more freely, recover, and feel your best.",
     ],
     therapies: [
+      THERAPIES.Cupping,
       THERAPIES.Deep,
       THERAPIES.Graston,
       THERAPIES.Prenatal,
@@ -152,6 +137,34 @@ window.therapists = [
       THERAPIES.Prenatal,
       THERAPIES.Sports,
       THERAPIES.Swedish,
+    ],
+  },
+  {
+    name: "Tiffany Gerald",
+    bio: [
+      "Hi, I'm Tiffany! I graduated from the Nashville School of Massage Therapy in 2025 and am passionate about helping clients feel their best through personalized massage care. I offer deep tissue, sports, prenatal, and relaxation massage, tailoring each session to your needs and comfort level.",
+      "With nine years of experience teaching Barre fitness, I bring a strong appreciation for movement, strength, and the mind-body connection to my practice. My approach focuses on easing muscle tension, supporting recovery, and encouraging overall wellness.",
+      "My goal is to create a welcoming environment where you feel comfortable and cared for. Whether you're maintaining an active lifestyle, navigating pregnancy, or simply making time for yourself, I'm here to help you feel refreshed and renewed.",
+    ],
+    therapies: [
+      THERAPIES.Prenatal,
+      THERAPIES.Lymphatic,
+      THERAPIES.Cupping,
+      THERAPIES.Deep,
+      THERAPIES.Sports,
+    ],
+  },
+  {
+    name: "Jazmine Smith",
+    bio: [
+      "Hi, I'm Jazmine! I graduated from Mind Body Institute in 2024 and specialize in deep tissue massage, prenatal massage, and cupping therapy. My approach focuses on your individual needs, comfort, and wellness goals, with each session tailored to help relieve muscle tension, encourage relaxation, and support overall well-being.",
+      "I strive to create a warm, welcoming environment where you feel comfortable and cared for. Whether you're seeking targeted tension relief, support during pregnancy, or time to recharge, my goal is to help you leave feeling renewed.",
+    ],
+    therapies: [
+      THERAPIES.Prenatal,
+      THERAPIES.Cupping,
+      THERAPIES.Deep,
+      THERAPIES.Sports,
     ],
   },
 ];
