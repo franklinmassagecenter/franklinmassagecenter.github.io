@@ -155,6 +155,20 @@ window.therapists = [
     ],
   },
   {
+    name: "Hanna Fleming",
+    bio: [
+      "Hi, I'm Hanna! I graduated from the Nashville School of Massage in March 2026, where I trained in therapeutic massage and bodywork. I earned my certification in equine massage therapy in 2021, and my hands-on experience working with horses deepened my understanding of anatomy, muscle function, and mobility.",
+      "I tailor each massage to your goals and comfort level. Whether you're looking to ease muscle tension, move more comfortably, or take time to unwind, we'll talk about what you'd like to focus on and adjust the session based on how you feel.",
+      "My goal is to provide a welcoming environment where you feel comfortable asking questions, sharing feedback, and taking time to care for yourself.",
+    ],
+    therapies: [
+      THERAPIES.Lymphatic,
+      THERAPIES.Cupping,
+      THERAPIES.Deep,
+      THERAPIES.Sports,
+    ],
+  },
+  {
     name: "Jazmine Smith",
     bio: [
       "Hi, I'm Jazmine! I graduated from Mind Body Institute in 2024 and specialize in deep tissue massage, prenatal massage, and cupping therapy. My approach focuses on your individual needs, comfort, and wellness goals, with each session tailored to help relieve muscle tension, encourage relaxation, and support overall well-being.",
